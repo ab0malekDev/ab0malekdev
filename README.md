@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohammed Al-Aush
+# Hi there 👋, I'm AB0MaLeK Dev
 
 💻 **Fullstack & Mobile Developer**  
 Building scalable, secure, and beautiful applications 🚀  
